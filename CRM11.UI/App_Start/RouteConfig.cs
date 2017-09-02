@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace CRM11
+namespace CRM11.UI
 {
     public class RouteConfig
     {

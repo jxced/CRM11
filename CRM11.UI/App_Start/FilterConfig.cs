@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace CRM11
+namespace CRM11.UI
 {
     public class FilterConfig
     {

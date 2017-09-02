@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace CRM11
+namespace CRM11.UI
 {
     public class BundleConfig
     {
